@@ -32,13 +32,13 @@ The larger goal of this resume parsing python application is to decode the seman
 If you consider the word "Apple," it can have two meanings in a sentence. Depending on whether it has been used as a proper noun or a common noun, you will understand whether one is discussing the multinational tech company or the fruit. This CV parser python project will understand how POS Tagging is implemented in Python.
 
 # Stopwords Elimination
-Stopwords are the words like 'a', 'the,' 'am', 'is', etc., that hardly add any meaning to a sentence. These words are usually deleted to save on processing power and time. In their CV, an applicant may submit their work experience in long paragraphs with many stopwords. For such cases, it becomes essential to know how to extract experience from a resume in python, which you will learn in this project.
+Stopwords are the words like 'a', 'the,' 'am', 'is', etc., that hardly add any meaning to a sentence. These words are usually deleted to save on processing power and time. In their CV, an applicant may submit their work experience in long paragraphs with many stopwords. For such cases, it becomes essential to know how to extract experience from a resume in python.
 
 # SpaCy
 SpaCy is a library in Python that is widely used in many NLP-based projects by data scientists as it offers quick implementation of techniques mentioned above. Additionally, one can use SpaCy to visualize different entities in text data through its built-in visualizer called displacy. Furthermore, SpaCy supports the implementation of rule-based matching, shallow parsing, dependency parsing, etc. This NLP resume parser project will guide you on using SpaCy for Named Entity Recognition (NER).
 
 # OCR using TIKA
-You will use Apache Tika, an open-source library for implementing OCR in this project. OCR stands for optical character recognition. It involves converting images into text and will be used in this resume extraction python project for decoding text information from the PDF files. The textual data is processed using various NLP methods to extract meaningful information.
+I will use Apache Tika, an open-source library for implementing OCR in this project. OCR stands for optical character recognition. It involves converting images into text and will be used in this resume extraction python project for decoding text information from the PDF files. The textual data is processed using various NLP methods to extract meaningful information.
 
 # Machine Learning Pipeline
-As this project is about resume parsing using machine learning and NLP, you will learn how an end-to-end machine learning project is implemented to solve practical problems. Different machine learning algorithms Neural Networks using SpaCy library are used in this project to build a model that can pull out relevant fields like location, name, etc., from different resumes of different formats.
+As this project is about resume parsing using machine learning and NLP, I will show how an end-to-end machine learning project is implemented to solve practical problems. Different machine learning algorithms Neural Networks using SpaCy library are used in this project to build a model that can pull out relevant fields like location, name, etc., from different resumes of different formats.
